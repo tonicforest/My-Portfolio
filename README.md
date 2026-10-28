@@ -1,9 +1,9 @@
 ![Logo](/images/Capture%20d'écran%202025-10-22%20182207.png)
 
 
-# Namaami Portfolio Showcase 💻
+# Theós Portfolio Showcase 💻
 
-Welcome to **Namaami's Portfolio Showcase**!  
+Welcome to **Theós's Portfolio Showcase**!  
 This project is a modern **portfolio website** to display projects, skills, and work samples using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and designed to highlight your projects with videos, animations, and smooth navigation.
 
@@ -42,8 +42,8 @@ You can view the live, [deployed version of this project here:](https://namaami.
 - Location: Lucknow, India  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/namaami-mishra-619831295/)  
 - GitHub: [GitHub](https://github.com/Namaami)  
-- Instagram: [Instagram](https://www.instagram.com/namaami__x/)
+- Instagram: [Instagram](https://www.instagram.com/tonicforest/)
 
 ---
 
-Made with ❤️ by **Namaami Mishra**
+Made with ❤️ by **Theós**
