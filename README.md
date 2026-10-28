@@ -11,7 +11,7 @@ It is fully **responsive**, interactive, and designed to highlight your projects
 
 ## 🚀 Live Demo
 
-You can view the live, [deployed version of this project here:](https://namaami.github.io/My-Portfolio/)
+You can view the live, [deployed version of this project here:](https://tonicforest.github.io/My-Portfolio/)
 
 ## 🌟 Features
 
