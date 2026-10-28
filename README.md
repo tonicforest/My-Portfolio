@@ -1,4 +1,4 @@
-![Logo](/images/pf.png)
+![Logo](/images/Capture%20d'écran%202025-10-22%20182207.png)
 
 
 # Namaami Portfolio Showcase 💻
